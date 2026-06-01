@@ -1,4 +1,4 @@
-# Kutira-Kone – Smart Fabric Exchange Platform
+# Kutira-Kone 
 
 ## Overview
 
